@@ -1,0 +1,11 @@
+Z:\C#\RegAndLog\RegAndLog\bin\Debug\RegAndLog.exe.config
+Z:\C#\RegAndLog\RegAndLog\bin\Debug\RegAndLog.exe
+Z:\C#\RegAndLog\RegAndLog\bin\Debug\RegAndLog.pdb
+Z:\C#\RegAndLog\RegAndLog\obj\Debug\RegAndLog.csproj.AssemblyReference.cache
+Z:\C#\RegAndLog\RegAndLog\obj\Debug\RegAndLog.Form1.resources
+Z:\C#\RegAndLog\RegAndLog\obj\Debug\RegAndLog.Properties.Resources.resources
+Z:\C#\RegAndLog\RegAndLog\obj\Debug\RegAndLog.csproj.GenerateResource.cache
+Z:\C#\RegAndLog\RegAndLog\obj\Debug\RegAndLog.csproj.CoreCompileInputs.cache
+Z:\C#\RegAndLog\RegAndLog\obj\Debug\RegAndLog.exe
+Z:\C#\RegAndLog\RegAndLog\obj\Debug\RegAndLog.pdb
+Z:\C#\RegAndLog\RegAndLog\obj\Debug\RegAndLog.Login.resources

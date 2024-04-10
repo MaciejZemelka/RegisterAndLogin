@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\C#\\RegAndLog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95FC9B36-ACD2-4D1C-A77E-7A534BB2A84B}|RegAndLog\\RegAndLog.csproj|z:\\c#\\regandlog\\regandlog\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FC9B36-ACD2-4D1C-A77E-7A534BB2A84B}|RegAndLog\\RegAndLog.csproj|solutionrelative:regandlog\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FC9B36-ACD2-4D1C-A77E-7A534BB2A84B}|RegAndLog\\RegAndLog.csproj|Z:\\C#\\RegAndLog\\regandlog\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95FC9B36-ACD2-4D1C-A77E-7A534BB2A84B}|RegAndLog\\RegAndLog.csproj|solutionrelative:regandlog\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "Z:\\C#\\RegAndLog\\RegAndLog\\Form1.cs",
+              "RelativeDocumentMoniker": "RegAndLog\\Form1.cs",
+              "ToolTip": "Z:\\C#\\RegAndLog\\RegAndLog\\Form1.cs",
+              "RelativeToolTip": "RegAndLog\\Form1.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAwwD4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T13:56:39.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "Z:\\C#\\RegAndLog\\RegAndLog\\Form1.cs",
+              "RelativeDocumentMoniker": "RegAndLog\\Form1.cs",
+              "ToolTip": "Z:\\C#\\RegAndLog\\RegAndLog\\Form1.cs [Projekt]",
+              "RelativeToolTip": "RegAndLog\\Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T13:48:47.296Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
